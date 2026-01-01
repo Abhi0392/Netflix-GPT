@@ -12,3 +12,14 @@ export const API_OPTIONS = {
       "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1MjJmNTU5MWI4ZDg5OGYxOTlmYmIyZTZmZmY5NTU3YSIsIm5iZiI6MTc2NTI1OTE1Ny4zNTY5OTk5LCJzdWIiOiI2OTM3Yjc5NTg4MGQ0ZThmMmFmODcyOGUiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.wlYphmztn7Cp2VzJuXrSYud5zMbsyn6712_kj8tpLp8",
   },
 };
+
+export const IMG_CDN = "https://image.tmdb.org/t/p/w780";
+
+export const BG_URL =
+  "https://assets.nflxext.com/ffe/siteui/vlv3/4ffe3d37-1fc1-4d93-b61a-1fa58c11ccff/web/IN-en-20251124-TRIFECTA-perspective_9f00d07d-f08e-494f-8907-92371138c534_large.jpg";
+
+export const SUPPORTED_LANGUAGES = [
+  { identifier: "en", name: "English" },
+  { identifier: "kannada", name: "Kannada" },
+  { identifier: "spanish", name: "Spanish" },
+];

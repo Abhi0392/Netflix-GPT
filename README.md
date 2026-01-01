@@ -38,3 +38,6 @@ If you are developing a production application, we recommend using TypeScript wi
 - create movieSLice
 - Update store with Movies data
 - Embedded the youtube video & make it autoplay
+- GPT search feature
+- GPT Search bar
+- Multi Langauage support
